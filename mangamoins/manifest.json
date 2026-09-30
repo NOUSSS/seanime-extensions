@@ -1,0 +1,13 @@
+{
+  "id": "mangamoins",
+  "name": "MangaMoins + Anime-Sama",
+  "version": "1.0.2",
+  "manifestURI": "https://raw.githubusercontent.com/NOUSSS/seanime-extensions/main/mangamoins/manifest.json",
+  "language": "javascript",
+  "type": "manga-provider",
+  "description": "Scans FR de MangaMoins (sorties rapides), avec repli sur Anime-Sama pour les chapitres et séries absents.",
+  "author": "nouss",
+  "website": "https://mangamoins.com",
+  "lang": "fr",
+  "payloadURI": "https://raw.githubusercontent.com/NOUSSS/seanime-extensions/main/mangamoins/provider.js"
+}
